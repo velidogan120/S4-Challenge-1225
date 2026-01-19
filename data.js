@@ -1,4 +1,4 @@
-const restoran = {
+export const restoran = {
   menuler: [
     {
       kategori: "Ana Yemek",
